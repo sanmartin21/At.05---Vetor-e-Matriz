@@ -12,6 +12,7 @@ public class at02rodando {
 
 	}
 
+	
 	private static void mostrar(float[] vetor) {
 		for (float j : vetor) {
 			System.out.println(j);

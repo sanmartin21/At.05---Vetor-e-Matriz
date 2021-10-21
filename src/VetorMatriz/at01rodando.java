@@ -8,6 +8,7 @@ public class at01rodando {
 
 		Scanner input = new Scanner(System.in);
 
+		
 		int vetor[] = new int[5];
 		int i;
 
