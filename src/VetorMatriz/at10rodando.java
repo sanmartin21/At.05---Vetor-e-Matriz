@@ -17,7 +17,7 @@ public class at10rodando {
 		for (int k = 0; k < letras.length; k++) {
 			letras[k] = text.charAt(k);
 		}
-		
+
 		System.out.println(Arrays.toString(letras));
 
 	}
